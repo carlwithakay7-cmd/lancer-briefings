@@ -2,18 +2,18 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
+  "defaultTitle": "MCMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
+    "planet": "LA-OS 71",
     "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
-    "headerTitle": "Mirrorsmoke",
+    "system": "Vopada",
+    "gate": "The Eternity Gate",
+    "ring": "Dofleini Ring",
+    "headerTitle": "Milky Circle",
     "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderTitle": "Repossesions",
+    "subheaderSubtitle": "Tactical Asset Relocation Squad"
   },
   "pilotSpecialInfo": {}
 }
